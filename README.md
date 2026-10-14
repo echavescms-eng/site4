@@ -1,4 +1,4 @@
-# Vértice Advocacia — site demonstrativo
+# Chaves Advocacia — site demonstrativo
 
 Projeto acadêmico de site institucional de advocacia desenvolvido com HTML, CSS e JavaScript puro.
 
@@ -32,7 +32,7 @@ site_advocacia/
 5. Para testar, você pode clicar com o botão direito em `index.html` e escolher **Open with Live Server** (se a extensão Live Server estiver instalada). Também é possível abrir `index.html` diretamente no navegador; o site não precisa de servidor para as funções básicas.
 
 ## Personalização
-- Troque “Vértice Advocacia” pelo nome desejado.
+- Troque “Chaves Advocacia” pelo nome desejado.
 - Substitua e-mail, telefone, endereço e horários em `contato.html`.
 - Atualize textos, áreas de atuação e itens do portfólio.
 - As imagens de capa usam URLs do Unsplash e precisam de conexão com a internet. Você pode substituí-las por imagens próprias.
